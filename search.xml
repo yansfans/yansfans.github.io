@@ -3,12 +3,25 @@
   
     
     <entry>
-      <title><![CDATA[postName]]></title>
-      <url>/2017/11/05/postName/</url>
-      <content type="html"><![CDATA[<h3 id="u"><a href="#u" class="headerlink" title="u"></a>u</h3><p>#111</p>
-<p>##sadsadsa<br>i </p>
+      <title><![CDATA[最开始的状态]]></title>
+      <url>/2017/11/05/post_first_notes/</url>
+      <content type="html"><![CDATA[<p><br><br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://blog.sina.com.cn/greps" target="_blank" rel="external">本人在这之前的博客</a></p>
+<ul>
+<li>个人需求 <br><br>&nbsp; &nbsp; 一直再用新浪微博 ，写文章的频率不高，灵感来的时候希望你别是挂的就OK  .</li>
+</ul>
+<ul>
+<li><p>博客存在的价值</p>
+<p>&nbsp; &nbsp; 随手小记 ，分享生活 ，技术攻克 ，本人所感兴趣语言 python / java ，<br>大数据的一些基本框架搭建使用，优化 ，Python web  ,java web Python 运维 ，还有安全方面的一些知识 ， 如有不专业望多包涵</p>
+</li>
+</ul>
 ]]></content>
       
+        
+        <tags>
+            
+            <tag> 生活  、技术 </tag>
+            
+        </tags>
         
     </entry>
     
