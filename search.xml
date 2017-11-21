@@ -3,6 +3,35 @@
   
     
     <entry>
+      <title><![CDATA[python [Django1.9]]]></title>
+      <url>/2017/11/20/django_uwsgi_nginx/</url>
+      <content type="html"><![CDATA[<p><br><br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://blog.sina.com.cn/greps" target="_blank" rel="external">本人在这之前的博客</a></p>
+<ul>
+<li>构建Python Web 工程 <br><br>&nbsp; &nbsp; 建构 Django1.9 + uwsgi2.0.15 + nginx1.1.2</li>
+</ul>
+<ul>
+<li><p>Django 1.9.0 构建</p>
+<p>&nbsp; &nbsp;</p>
+</li>
+<li><p>uwsgi 2.0.15 构建</p>
+<p>&nbsp; &nbsp;</p>
+</li>
+<li><p>nginx 1.1.2 构建</p>
+<p>&nbsp; &nbsp;</p>
+</li>
+</ul>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 生活  、技术 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[好好说话，好好做人]]></title>
       <url>/2017/11/20/say/</url>
       <content type="html"><![CDATA[<p><br><br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://blog.sina.com.cn/greps" target="_blank" rel="external">本人在这之前的博客</a></p>
@@ -52,35 +81,6 @@
 <li>将所有的责任往自己的身上拦　，拦到夸张的地步</li>
 <li>安抚对你不满的人的情绪　,谨言慎行</li>
 </ul>
-</li>
-</ul>
-]]></content>
-      
-        
-        <tags>
-            
-            <tag> 生活  、技术 </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[python [Django1.9]]]></title>
-      <url>/2017/11/20/django_uwsgi_nginx/</url>
-      <content type="html"><![CDATA[<p><br><br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://blog.sina.com.cn/greps" target="_blank" rel="external">本人在这之前的博客</a></p>
-<ul>
-<li>构建Python Web 工程 <br><br>&nbsp; &nbsp; 建构 Django1.9 + uwsgi2.0.15 + nginx1.1.2</li>
-</ul>
-<ul>
-<li><p>Django 1.9.0 构建</p>
-<p>&nbsp; &nbsp;</p>
-</li>
-<li><p>uwsgi 2.0.15 构建</p>
-<p>&nbsp; &nbsp;</p>
-</li>
-<li><p>nginx 1.1.2 构建</p>
-<p>&nbsp; &nbsp;</p>
 </li>
 </ul>
 ]]></content>
