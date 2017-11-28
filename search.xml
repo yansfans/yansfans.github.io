@@ -3,6 +3,33 @@
   
     
     <entry>
+      <title><![CDATA[Hadoop 服务开机自启动]]></title>
+      <url>/2017/11/25/hadoop_init_start/</url>
+      <content type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://blog.sina.com.cn/greps" target="_blank" rel="external">本人在这之前的博客</a></p>
+<p><div style="display:none;"></div></p>
+<p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://link.hhtjim.com/163/460043703.mp3"><br></iframe><br></p>
+<ul>
+<li>cd /etc/init.d</li>
+<li>vim hadoop<ul>
+<li>#！/bin/bash<br>#chkconfig:35 95 1<br>#description:script to start/stop hadoop<br>case $1 in<br>start)<br>sh /usr/hadoop-2.7.4/bin/start-all.sh<br>;;<br>stop)<br>sh /hadoop-2.7.4/bin/stop-all.sh<br>;;<br>*)<br>echo “Usage:$0(start|stop)”<br>;;<br>esac<br>exit<br>!</li>
+</ul>
+</li>
+<li>设置hadoop为开机自启动：chkconfig –add hadoop</li>
+<li>或者 chkconfig  hadoop on</li>
+<li>vim /etc/rc.d/rc.local 添加 /etc/init.d/hadoop start</li>
+</ul>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Hadoop  、 大数据 、自启动 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[python [Django1.9]]]></title>
       <url>/2017/11/20/django_uwsgi_nginx/</url>
       <content type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://blog.sina.com.cn/greps" target="_blank" rel="external">本人在这之前的博客</a></p>
@@ -112,7 +139,7 @@
         
         <tags>
             
-            <tag> 概述  、技术 </tag>
+            <tag> 概述  、 技术 </tag>
             
         </tags>
         
