@@ -3,6 +3,41 @@
   
     
     <entry>
+      <title><![CDATA[Flask 离线打包 ，requests 离线安装]]></title>
+      <url>/2017/11/25/flask%20%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85/</url>
+      <content type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://blog.sina.com.cn/greps" target="_blank" rel="external">本人在这之前的博客</a></p>
+<div style="display:none;"><br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://link.hhtjim.com/163/460043703.mp3"><br></iframe><br></div>
+
+<ul>
+<li><p>Flask 所需要的软件包</p>
+<ul>
+<li><p>Flask-0.12.1 离线安装需要的软件包为:<br> install_requires=[</p>
+<pre><code>&apos;Werkzeug&gt;=0.7&apos;,
+&apos;Jinja2&gt;=2.4&apos;,
+&apos;itsdangerous&gt;=0.21&apos;,
+&apos;click&gt;=2.0&apos;,
+</code></pre><p>]</p>
+</li>
+<li><p>requests</p>
+<ul>
+<li>Rquest2.18.4 离线安装包:<br>install_requires=[<br> ‘certifi-2017.11.5’,<br> ‘urllib3-1.22’,<br> ‘idna-2.6’,<br> ‘chardet-3.0.4’,<br>]</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 概述  、 技术 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Hadoop 服务开机自启动]]></title>
       <url>/2017/11/25/hadoop_init_start/</url>
       <content type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://blog.sina.com.cn/greps" target="_blank" rel="external">本人在这之前的博客</a></p>
